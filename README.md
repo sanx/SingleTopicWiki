@@ -1,6 +1,11 @@
 Single Article Wiki System
 ====
 
+Requirements
+----
+
+Node.js >= 0.11 (for support for JS generators, which we use for cleaner asynchronous complexity handling).
+
 Quick start
 ----
 
