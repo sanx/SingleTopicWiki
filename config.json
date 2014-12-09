@@ -1,0 +1,7 @@
+{
+    "persist": {
+        "dirname": "/tmp",
+        "prefix": "SinglePageWiki-",
+        "timeToRefresh": 1000
+    }
+}

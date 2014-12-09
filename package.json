@@ -1,0 +1,19 @@
+{
+  "name": "SingleTopicWiki",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gerardo@gerardomoad.com",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^0.13.0",
+    "koa-body-parser": "^1.1.0",
+    "koa-router": "^3.7.0",
+    "nconf": "^0.7.1",
+    "q": "^1.1.2",
+    "request": "^2.49.0"
+  }
+}
